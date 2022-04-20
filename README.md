@@ -20,3 +20,8 @@ This project is made with java, MYSQL and Swing. It's a prototype of Bank softwa
 ![New Account 0](https://user-images.githubusercontent.com/59496958/164162020-07a565b2-68e1-438a-8120-983e47594af7.png)
 ![New Account](https://user-images.githubusercontent.com/59496958/164162016-c02ad7f6-2959-4dd5-998f-ceaecfc92cd4.png)
 
+### Tab2: Deposit
+![Deposite](https://user-images.githubusercontent.com/59496958/164162165-c65ed81d-a22b-469d-9843-ce4975b51d7a.png)
+
+### Tab3: Withdrawl
+![Withdrawl](https://user-images.githubusercontent.com/59496958/164162284-cb374964-bb6f-4704-8c7d-dc880efac05c.png)
