@@ -5,11 +5,18 @@ This project is made with java, MYSQL and Swing. It's a prototype of Bank softwa
 ![Screenshot (495)](https://user-images.githubusercontent.com/59496958/164062575-2f3ec8e5-3a9c-4181-8f2c-17e559f46593.png)
 # Admin Pannel
 
-### Page 1 
+### Tab1: Adding New Employee
 ![Adm F1](https://user-images.githubusercontent.com/59496958/164063794-623b1a85-27d9-415e-bf04-f51ef2a7d727.png)
 
-### Page 2
+### Tab2: Updating Employee Details
 ![Adm F2](https://user-images.githubusercontent.com/59496958/164063941-800da54e-62c1-41cd-b36c-568dabac8c3a.png)
 
-### PAGE 3
+### Tab3: Total transactions in a day
 ![Adn F3](https://user-images.githubusercontent.com/59496958/164064876-90257367-c0fb-4a89-a5c0-0dbabe0e4e2c.png)
+
+# User Pannel
+
+### Tab1: Creating New Customer's Account
+![New Account 0](https://user-images.githubusercontent.com/59496958/164162020-07a565b2-68e1-438a-8120-983e47594af7.png)
+![New Account](https://user-images.githubusercontent.com/59496958/164162016-c02ad7f6-2959-4dd5-998f-ceaecfc92cd4.png)
+
