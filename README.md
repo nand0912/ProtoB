@@ -1,4 +1,5 @@
 # ProtoB
+This project is made with java, MYSQL and Swing. It's a prototype of Bank software by analyzing their existing system of operations. Performed all the functions of Backend and Frontend. Effectively addressed complex bugs and successfully worked on an independent level and also worked as effective and enthusiastically.
 
 ### Home Page
 ![Screenshot (495)](https://user-images.githubusercontent.com/59496958/164062575-2f3ec8e5-3a9c-4181-8f2c-17e559f46593.png)
